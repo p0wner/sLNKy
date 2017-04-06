@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rex', '2.0.10'
+gem 'thor'
+gem 'colorize'
+gem 'terminal-table'
